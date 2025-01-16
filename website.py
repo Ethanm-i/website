@@ -68,7 +68,7 @@ with st.container():
     st.header("Contact us;")
     st.write("##")
 
-    contact_info = """<form action="https://formsubmit.co/your@email.com" method="POST">
+    contact_info = """<form action="https://formsubmit.co/seralens@outlook.com" method="POST">
      <input type= "hidden" name="_catcha" value="false">
      <input type="text" name="name" placeholder="Your name" required>
      <input type="email" name="email" placeholder="Your email" required>
