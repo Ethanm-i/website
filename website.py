@@ -1,5 +1,4 @@
 from PIL import Image
-import pygame as pg 
 import streamlit as st 
 
 st.set_page_config(page_title="SERA LENS | REAL ESTATE MEDIA SERVICES", page_icon=":camera:", layout="wide")
