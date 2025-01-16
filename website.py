@@ -46,7 +46,7 @@ with st.container():
                  "For cinematic RE listing video:\n\n"
                  "- 500 sq - 2500sq | $197\n"
                  "- 2500sq - 4000sq | $269\n"
-                 "- 4000sq - 5500sq | 315\n\n"
+                 "- 4000sq - 5500sq | $315\n\n"
                  "Agent WalkThrough | $189 | $247 | $299\n\n"
                  "Social Media Highlight | $77\n\n"
                  "Twilight Images | $45/i\n\n"
